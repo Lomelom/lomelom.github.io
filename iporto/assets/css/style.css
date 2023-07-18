@@ -241,6 +241,13 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
+  background: url("../img/bg.jpg") top center;
+  background-size: cover;
+}
+
+#heroy {
+  width: 100%;
+  height: 100vh;
   background: url("../img/time urdu.jpg") top center;
   background-size: cover;
 }
